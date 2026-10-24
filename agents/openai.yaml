@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser and Computer Control"
+  short_description: "Control exact browser profiles and Windows UI"
+  default_prompt: "Use $browser-computer-control to automate this browser or desktop task with the correct backend and exact browser profile."

@@ -1,0 +1,3 @@
+# browser-computer-control skill. Exact versions tested 2026-10-24. Also needs the browser-use program 0.13.8 (uv tool install browser-use==0.13.8) on PATH.
+psutil==7.2.2
+websocket-client==1.9.0
