@@ -22,6 +22,10 @@ It routes work to three tools you install separately: Hermes Agent's browser too
 
 Run `python -m pytest scripts/tests`. The tests are offline.
 
+## Licence
+
+MIT; see `LICENSE`.
+
 ## Privacy
 
 The skill never copies browser profiles, cookies or saved passwords. The pre-commit hook in `.githooks` runs `tools/check_secrets.py` to block tokens and words from your private word list.
